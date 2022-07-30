@@ -20,3 +20,6 @@ python task3_finetune.py
 ```
 python overall.py
 ```
+
+## pretrained models
+https://drive.google.com/file/d/16-eo_G9KHsNhrB4LUPw--V5c0uIF3DhQ/view?usp=sharing
